@@ -7,14 +7,14 @@ verde = '\033[32;1m'
 azul = '\033[34;1m'
 normal = '\033[0;0m'
 
-Contact = """
+banner = """
 ========================================
 #Codedy by: @Elifelete1                #
 #date: 06/04/2017                      #
 #Github: https://github.com/Elifelete  #
 ========================================
 """
-print(azul + Contact)
+print(azul + banner)
 
 
 def requisicao(titulo):
