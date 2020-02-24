@@ -9,7 +9,6 @@ normal = '\033[0;0m'
 
 banner = """
 ========================================
-#Codedy by: SystX                      #
 #date: 06/04/2017                      #
 #Github: https://github.com/Elifelete  #
 ========================================
